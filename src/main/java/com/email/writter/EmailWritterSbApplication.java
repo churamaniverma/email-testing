@@ -10,5 +10,7 @@ public class EmailWritterSbApplication {
 		SpringApplication.run(EmailWritterSbApplication.class, args);
 	}
 
-System.out.println("testing data");
+System.out.println("testing data hiiiiiiiiiii");
+
+
 }
