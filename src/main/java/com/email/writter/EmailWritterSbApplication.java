@@ -10,4 +10,5 @@ public class EmailWritterSbApplication {
 		SpringApplication.run(EmailWritterSbApplication.class, args);
 	}
 
-System.out.println("hwlloq");}
+System.out.println("testing data");
+}
